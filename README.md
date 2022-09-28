@@ -4,3 +4,5 @@ Backend of project used to connect to AWS s3 and upload and download images.  No
 When using make sure to put your own bucket name in src/main/java/com/drewjwalton/awsimageupload/bucket/BucketName.
 
 Also make sure to put your own access and root keys in src/main/java/com/drewjwalton/awsimageupload/config/AmazonConfig.
+
+Full project : https://github.com/DrewWalt/aws-image-upload.git
